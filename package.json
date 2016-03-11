@@ -1,0 +1,13 @@
+{
+  "name": "swagger-express-router",
+  "version": "0.1.0",
+  "main": "main.js",
+  "publishConfig": {
+    "registry": "http://npm.muc.pom:4873"
+  },
+  "dependencies": {
+    "lodash": "~4.6.1",
+    "express": "~4.13.4",
+    "bluebird": "~3.3.4"
+  }
+}
